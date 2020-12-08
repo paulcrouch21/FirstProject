@@ -1,3 +1,5 @@
+#This is first "project" as it only is a number guessing game.
+
 import random
 
 def main():
